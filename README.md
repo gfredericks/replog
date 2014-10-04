@@ -32,6 +32,10 @@ user=> (inc &2)
 - tracking inputs as well
 - exporting?
 
+## Attributions
+
+- [Brandon Bloom](https://github.com/brandonbloom) for the name "replog"
+
 ## License
 
 Copyright © 2014 Gary Fredericks
