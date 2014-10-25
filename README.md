@@ -10,7 +10,7 @@ Currently just a proof of concept.
 `lein install`
 
 Add `[com.gfredericks/replog "0.1.0-SNAPSHOT"]` to a profile in some
-project, and add `#'com.gfredericks.replog/wrap-history` to your list
+project, and add `com.gfredericks.replog/wrap-history` to your list
 of nrepl middlewares.
 
 Then `lein repl`:
